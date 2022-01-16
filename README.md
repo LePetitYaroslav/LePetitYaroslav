@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaroslav Skyba @LePetitYaroslav
-- 👀 I’m interested in FLutter/Dart DUUUUDE :)
+- 👀 I’m interested in FLutter/Dart:)
 - 🌱 I’m currently learning Flutter/Dart/AllMyLifeIsLearn
 - 💞️ I’m looking to collaborate on developers any lvl's
 - 📫 How to reach me tg @ravenCloud
